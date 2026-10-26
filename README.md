@@ -252,3 +252,7 @@ Comprehensive technical presentation materials and demonstrations are organized 
 
 ## License & Intellectual Property
 Distributed under the MIT License. Developed as an advanced architectural prototype demonstrating generative AI integration in retail e-commerce systems.
+
+## Course Project
+
+This project was developed as part of the Designing Interactive Systems (DIS) course, in collaboration with Mayank Singh and Abhinav Arora.
